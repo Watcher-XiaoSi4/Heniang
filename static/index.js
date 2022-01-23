@@ -342,9 +342,9 @@ function shareText(score) {
     }
     SubmitResults();
     if (score <= 49) return '盒娘说你不懂大鸡鸡的快乐';
-    if (score <= 99) return 'TCL';
-    if (score <= 149) return 'TQL';
-    if (score <= 199) return '您';
+    if (score <= 99) return '还算可以';
+    if (score <= 149) return '单身多久了？';
+    if (score <= 199) return '晚上来我屋';
     return '人？';
 }
 
