@@ -10,27 +10,15 @@ _🦌 网页小游戏 🥛_
 </div>
 
 
-## 简介
+## 原简介
 
 小游戏：吃掉小鹿乃
 
 浏览量超10,000,000+
 
-线上版本:https://xingye.me/game/eatkano/index.php
+原线上版本:https://xingye.me/game/eatkano/index.php
 
 Github Page:https://arcxingye.github.io/EatKano/index.html
-
-## 可选功能
-
-简易排行榜(日/周/月)
-
-需导入并配置数据库，信息填进conn.php
-
-如启用务必更换密钥及添加一些安全防范代码
-
-以及对index.js进行混淆加密压缩
-
-不需要排行榜把PHP文件都扔掉即可
 
 ## 其它事项
 
