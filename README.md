@@ -10,7 +10,7 @@ _🦌 网页小游戏 🥛_
 </div>
 
 
-## 简介
+## 原简介
 
 小游戏：吃掉小鹿乃
 
@@ -19,6 +19,7 @@ _🦌 网页小游戏 🥛_
 原线上版本:https://xingye.me/game/eatkano/index.php
 
 原Github Page:https://arcxingye.github.io/EatKano/index.html
+Github Page:https://arcxingye.github.io/EatKano/index.html
 
 ## 其它事项
 
